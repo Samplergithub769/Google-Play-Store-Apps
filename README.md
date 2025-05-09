@@ -5,10 +5,13 @@ The Google Play Store is the largest mobile app marketplace globally, hosting mi
 Data
 - https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore.csv<br />
 - https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore_user_reviews.csv<br />
+
 Dashboard
 - https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%202.pbix
+  
 Google Play Store Analysis Report File
 - https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%20Analysis.pdf
+  
 Images
 ![Category Analysis](https://github.com/user-attachments/assets/14de76e7-2f62-4d84-bc85-5651a5c16c9e)
 
