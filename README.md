@@ -10,17 +10,10 @@ Dashboard
 Google Play Store Analysis Report File
 - https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%20Analysis.pdf
 Images
-- ![Category Analysis](https://github.com/user-attachments/assets/14de76e7-2f62-4d84-bc85-5651a5c16c9e)
+![Category Analysis](https://github.com/user-attachments/assets/14de76e7-2f62-4d84-bc85-5651a5c16c9e)
 
-- ![Revenue Analysis](https://github.com/user-attachments/assets/6a578924-9027-4156-a8e2-8868363a9f3a)
+![Revenue Analysis](https://github.com/user-attachments/assets/6a578924-9027-4156-a8e2-8868363a9f3a)
   
-- ![Sentiment Analysis](https://github.com/user-attachments/assets/bddda909-a0e2-4d76-b8ab-1c0f5982c951)
+![Sentiment Analysis](https://github.com/user-attachments/assets/bddda909-a0e2-4d76-b8ab-1c0f5982c951)
 
-- ![App   Content Analysis](https://github.com/user-attachments/assets/6198b018-fee9-4f0e-a07c-fb8edacd513b)
-
-
-
-
-
-
-
+![App   Content Analysis](https://github.com/user-attachments/assets/6198b018-fee9-4f0e-a07c-fb8edacd513b)
