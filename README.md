@@ -3,14 +3,14 @@ The Google Play Store is the largest mobile app marketplace globally, hosting mi
 ## 📁 Repository Structure
 
 ### 📂 Dataset
-- [googleplaystore.csv](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore.csv)
-- [googleplaystore_user_reviews.csv](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore_user_reviews.csv)
+- [googleplaystore.csv]https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore.csv
+- [googleplaystore_user_reviews.csv]https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore_user_reviews.csv
 
 ### 📊 Dashboard
-- [Google Play Store Dashboard (.pbix)](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%202.pbix)
+- [Google Play Store Dashboard (.pbix)]https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%202.pbix
 
 ### 📄 Report
-- [Google Play Store Analysis Report (.pdf)](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%20Analysis.pdf)
+- [Google Play Store Analysis Report (.pdf)]https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%20Analysis.pdf
 
 ### 🖼️ Images
 
