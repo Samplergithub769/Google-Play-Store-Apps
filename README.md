@@ -5,6 +5,13 @@ The Google Play Store is the largest mobile app marketplace globally, hosting mi
 - [googleplaystore.csv](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore.csv)
 - [googleplaystore_user_reviews.csv](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore_user_reviews.csv)
 
+### 🎯 Dashboard Background
+- ![Background1](https://github.com/user-attachments/assets/b082cd79-fdc8-4459-bfd3-94816786b965)
+- ![Background 2](https://github.com/user-attachments/assets/83e41b12-2dd5-4056-b06e-0f033e983e64)
+- ![Background 3](https://github.com/user-attachments/assets/5f8cd64e-7020-4963-aa5c-2e83e40e8913)
+- ![Background 4 (1)](https://github.com/user-attachments/assets/4d5019f1-e775-4960-8d4d-2c06a033e439)
+*A background presentation outlining the objectives, data sources, key metrics, and visualization plan used in designing the Power BI dashboard.*
+
 ### 📊 Dashboard
 - [Google Play Store Dashboard (.pbix)](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%202.pbix)
 
