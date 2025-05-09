@@ -2,15 +2,16 @@
 The Google Play Store is the largest mobile app marketplace globally, hosting millions of apps  across various categories. Analyzing this platform offers valuable insights for developers,  marketers, and businesses. This project leverages Power BI to perform an in-depth analysis of  Google Play Store data.
 ## 📁 Repository Structure
 
+## 📁 Repository Structure
 ### 📂 Dataset
-- [googleplaystore.csv]https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore.csv
-- [googleplaystore_user_reviews.csv]https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore_user_reviews.csv
+- [googleplaystore.csv](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore.csv)
+- [googleplaystore_user_reviews.csv](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/googleplaystore_user_reviews.csv)
 
 ### 📊 Dashboard
-- [Google Play Store Dashboard (.pbix)]https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%202.pbix
+- [Google Play Store Dashboard (.pbix)](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%202.pbix)
 
 ### 📄 Report
-- [Google Play Store Analysis Report (.pdf)]https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%20Analysis.pdf
+- [Google Play Store Analysis Report (.pdf)](https://github.com/Samplergithub769/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps%20Analysis.pdf)
 
 ### 🖼️ Images
 
@@ -25,3 +26,4 @@ The Google Play Store is the largest mobile app marketplace globally, hosting mi
 
 #### 📌 App Content Analysis
 ![App Content Analysis](https://github.com/user-attachments/assets/6198b018-fee9-4f0e-a07c-fb8edacd513b)
+
