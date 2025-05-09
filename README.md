@@ -14,14 +14,15 @@ The Google Play Store is the largest mobile app marketplace globally, hosting mi
 ### 🖼️ Images
 
 #### 📌 Category Analysis
-![Category Analysis](https://github.com/user-attachments/assets/14de76e7-2f62-4d84-bc85-5651a5c16c9e)
+![Category Analysis](https://github.com/user-attachments/assets/fb7e309e-039c-42df-9d79-31e4ea86b46d)
 
 #### 📌 Revenue Analysis
-![Revenue Analysis](https://github.com/user-attachments/assets/6a578924-9027-4156-a8e2-886363a9f3a)
+![Revenue Analysis](https://github.com/user-attachments/assets/015ac299-f21b-478b-b7c7-c00c9cdc8206)
 
 #### 📌 Sentiment Analysis
-![Sentiment Analysis](https://github.com/user-attachments/assets/bddda909-a0e2-4d76-b8ab-1c0f5982c951)
+![Sentiment Analysis](![Sentiment Analysis](https://github.com/user-attachments/assets/5fa9385e-232d-430a-b718-31d5136b8e43)
 
 #### 📌 App Content Analysis
-![App Content Analysis](https://github.com/user-attachments/assets/6198b018-fee9-4f0e-a07c-fb8edacd513b)
+![App Content Analysis](https://github.com/user-attachments/assets/d606e84c-2b48-438f-a71c-6551dc7466cc)
+
 
